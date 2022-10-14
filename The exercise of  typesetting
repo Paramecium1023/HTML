@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>图片排版练习</title>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+    <div class="card">    <!--第一个第div是框架-->
+        <div class="photos">   <!--第二个第div是用来存放图片的-->
+            <img src="imgs/1.jpg" alt="彭于晏">
+            <h1>彭于晏</h1>
+            <h2>Eddie Peng Yuyan</h2>
+            <p>彭于晏 座右铭：勇敢追梦</p>
+            <a href="https://baike.baidu.com/item/%E5%BD%AD%E4%BA%8E%E6%99%8F/305410" target="_blank">了解更多</a>
+
+        </div>
+    </div>
+     <div class="card">    <!--第一个第div是框架-->
+        <div class="photos">   <!--第二个第div是用来存放图片的-->
+            <img src="imgs/2.jpg" alt="杨洋">
+            <h1>杨洋</h1>
+            <h2>Yang Yang</h2>
+            <p>大道至简，知易行难；念念不忘，必有回响</p>
+            <a href="https://baike.baidu.com/item/%E6%9D%A8%E6%B4%8B/11573" target="_blank">了解更多</a>
+
+        </div>
+    </div>
+
+     <div class="card">    <!--第一个第div是框架-->
+        <div class="photos">   <!--第二个第div是用来存放图片的-->
+            <img src="imgs/11.jpg" alt="陈伟霆">
+            <h1>陈伟霆</h1>
+            <h2>William Chan</h2>
+            <p>华语影视男演员、歌手、主持人，毕业于香港圣若瑟英文学校。</p>
+            <a href="https://baike.baidu.com/item/%E9%99%88%E4%BC%9F%E9%9C%86/3463936" target="_blank">了解更多</a>
+
+        </div>
+    </div>
+
+
+    
+</body>
+</html>
